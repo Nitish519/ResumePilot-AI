@@ -170,7 +170,7 @@ export default function Dashboard() {
 
                     />
 
-                    <StatsCard
+                    {/* <StatsCard
 
                         title="Latest Resume"
 
@@ -178,7 +178,7 @@ export default function Dashboard() {
 
                         // icon="latest"
 
-                    />
+                    /> */}
 
                 </div>
 
