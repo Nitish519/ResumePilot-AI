@@ -92,13 +92,13 @@ export default function Dashboard() {
 
             );
 
-    const latestResume =
+    // const latestResume =
 
-        history.length > 0
+    //     history.length > 0
 
-            ? history[0].originalFileName
+    //         ? history[0].originalFileName
 
-            : "No Resume";
+    //         : "No Resume";
 
             if (!user) {
 
