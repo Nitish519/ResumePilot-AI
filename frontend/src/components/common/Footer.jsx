@@ -93,7 +93,7 @@ export default function Footer() {
                             </a>
 
                             <a
-                                href="https://linkedin.com/in/YOUR_LINKEDIN"
+                                href="https://www.linkedin.com/in/nitish-kumar-7a3102313"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="flex items-center gap-3 hover:text-white transition"

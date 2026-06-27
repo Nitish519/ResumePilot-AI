@@ -274,11 +274,11 @@ Indian Institute of Technology Goa
 
 GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/Nitish519
 
 LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/nitish-kumar-7a3102313
 
 ---
 
